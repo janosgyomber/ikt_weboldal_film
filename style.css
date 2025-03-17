@@ -3,3 +3,8 @@ body{
     background-repeat: no-repeat;
     background-position: center;
 }
+
+#logo{
+    width: 5%;
+    height: 5%;
+}
