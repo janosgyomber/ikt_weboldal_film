@@ -1,3 +1,5 @@
 body{
     background-image: url(bcg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
 }
