@@ -4,6 +4,10 @@ body{
     background-size: cover;
 }
 
-#logo{
+#meret{
     max-width: 5%;
+}
+
+#logo{
+    max-width: 50%;
 }
