@@ -7,7 +7,8 @@ document.getElementById("keres").addEventListener("submit", function(event) {
         { name: "Kezdőlap", url: "index.html" },
         { name: "Szereplők", url: "characters.html" },
         { name: "Évadok", url: "seasons.html" },
-        { name: "Dexter", url: "characters.html#dexter" }
+        { name: "Dexter", url: "characters.html#dexter" },
+        { name: "Leila", url: "characters.html#leila"}
     ];
 
     // Keresés végrehajtása
@@ -15,7 +16,11 @@ document.getElementById("keres").addEventListener("submit", function(event) {
 
     if (found) {
         window.location.href = found.url; // Oda navigál a megfelelő szekcióra
-    } else {
+    }else {
         alert("Nincs találat!"); // Ha nincs találat, értesítés
     }
+})
+
+document.getElementById("gomb").addEventListener("click", ()=>{
+    alert("Ez a funkció még nem elérhető!")
 })

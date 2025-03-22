@@ -11,3 +11,30 @@ body{
 #logo{
     max-width: 50%;
 }
+
+#urlap{
+    margin: auto;
+    margin-top: 35%;
+    display: flex;
+    justify-content: center;
+    max-width: 15%;
+    background-color: #880808;
+    border-radius: 20px;
+}
+
+
+label{
+    padding-top: 1rem;
+    color: whitesmoke;
+}
+
+#gomb{
+    margin-bottom: 1rem;
+    color: whitesmoke;
+    border: 1px solid whitesmoke;
+}
+
+#gomb:hover{
+    background-color: whitesmoke;
+    color: #880808;
+}
