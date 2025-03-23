@@ -14,7 +14,7 @@ body{
 
 #urlap{
     margin: auto;
-    margin-top: 35%;
+    margin-top: 3%;
     display: flex;
     justify-content: center;
     max-width: 15%;
@@ -37,4 +37,20 @@ label{
 #gomb:hover{
     background-color: whitesmoke;
     color: #880808;
+}
+
+.doboz{
+    margin: auto;
+    margin-top: 1%;
+    max-width: 20%;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: #880808;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#nagydoboz{
+    display: flex;
+    justify-content: space-evenly;
 }
