@@ -46,17 +46,27 @@ label{
     gap: 100px;
     justify-self: center;
     margin-top: 100px;
-  }
+}
   
-  .card {
+.card {
     width: 500px;
-    height: 700px;
-    background-color: red;
+    height: 650px;
+    background-color: #880808;
     border: 10px solid #ccc;
     display: flex;
     align-items: center;
     justify-content: center;
-  }
+    color: whitesmoke;
+}
+  
+.card-img-top{
+    height: 350px;
+}
+
+h5{
+    text-align: center;
+}
+
 
 .doboz{
     margin: auto;
