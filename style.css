@@ -1,4 +1,6 @@
 body{
+    font-family: 'Roboto', sans-serif;
+    color: whitesmoke;
     background-image: url(bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
