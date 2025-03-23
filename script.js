@@ -24,3 +24,5 @@ document.getElementById("keres").addEventListener("submit", function(event) {
 document.getElementById("gomb").addEventListener("click", ()=>{
     alert("Ez a funkció még nem elérhető!")
 })
+
+
