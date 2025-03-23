@@ -14,7 +14,7 @@ body{
 
 #urlap{
     margin: auto;
-    margin-top: 3%;
+    margin-bottom: 1%;
     display: flex;
     justify-content: center;
     max-width: 15%;
@@ -66,3 +66,19 @@ h5{
     text-align: center;
 }
 
+
+.doboz{
+    margin: auto;
+    margin-top: 1%;
+    padding: 1rem;
+    background-color: #880808;
+    border-radius: 20px;
+    max-width: 15%;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#nagydoboz{
+    display: flex;
+    justify-content: space-between;
+}
