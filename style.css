@@ -32,6 +32,7 @@ label{
     margin-bottom: 1rem;
     color: whitesmoke;
     border: 1px solid whitesmoke;
+    background-color: #880808;
 }
 
 #gomb:hover{
