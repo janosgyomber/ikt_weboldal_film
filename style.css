@@ -48,14 +48,13 @@ label{
   
 .card {
     width: 500px;
-    height: 700px;
+    height: 650px;
     background-color: #880808;
     border: 10px solid #ccc;
     display: flex;
     align-items: center;
     justify-content: center;
     color: whitesmoke;
-    
 }
   
 .card-img-top{
